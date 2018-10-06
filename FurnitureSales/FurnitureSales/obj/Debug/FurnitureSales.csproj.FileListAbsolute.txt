@@ -1,0 +1,30 @@
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.exe.config
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.exe
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.pdb
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csprojResolveAssemblyReference.cache
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.FurnitureSalesForm.resources
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.Properties.Resources.resources
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csproj.GenerateResource.Cache
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.exe
+C:\Users\Stephen.Carter\Documents\PROG1017G\6.Variables\Starters\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.pdb
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.exe.config
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.exe
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.pdb
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.FurnitureSalesForm.resources
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.Properties.Resources.resources
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.exe
+C:\Users\Stephen.Carter\Downloads\Starter_FurnitureSales\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.pdb
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.exe.config
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.exe
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\bin\Debug\FurnitureSales.pdb
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csprojAssemblyReference.cache
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.FurnitureSalesForm.resources
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.Properties.Resources.resources
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csproj.GenerateResource.cache
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.csproj.CoreCompileInputs.cache
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.exe
+D:\Google Drive\NBCC\_Introduction to Programming\Projects\FurnitureSales\FurnitureSales\obj\Debug\FurnitureSales.pdb
